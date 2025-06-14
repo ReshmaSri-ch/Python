@@ -26,14 +26,17 @@ A robust and beginner-friendly **Personal Expense Tracker** application built us
 
 ---
 
-##  Project Structure
+## Project Structure
+
+```
 expense_tracker_advanced/
-├── main.py # CLI interface
-├── gui.py # Tkinter-based GUI
-├── tracker.py # Core logic (OOP)
-├── database.py # SQLite connection & table creation
-├── export.csv # CSV output file (after export)
-└── README.md # Project documentation
+├── main.py         # CLI interface
+├── gui.py          # Tkinter-based GUI
+├── tracker.py      # Core logic (OOP)
+├── database.py     # SQLite connection & table creation
+├── export.csv      # CSV output file (after export)
+└── README.md       # Project documentation
+```
 
 ###  Run CLI Version
 
